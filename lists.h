@@ -1,4 +1,4 @@
-- Filename: 10-check_cycle.c
+Filename: 10-check_cycle.c
 
 
 #ifndef LISTS_H
