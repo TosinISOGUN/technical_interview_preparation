@@ -1,5 +1,7 @@
 # Technical Interview Preparation
 
+<p align="center"> <img src="https://resources.workable.com/wp-content/uploads/2018/05/prepare-interviews-featured.png" width="600" height="230" />
+
 ## Synopsis
 At ALX Holberton School of Software Engineering, specific questions/tasks are treated as interview prep tasks, these tasks are proven and can potentially be interview questions in the future while job hunting. This repository contains many of such prep tasks.
 
