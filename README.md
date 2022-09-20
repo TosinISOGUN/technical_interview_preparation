@@ -23,7 +23,7 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 - **Question;**
 > Write a function in C that inserts a number into a sorted singly linked list.
 
-- Prototype: listint_t *insert_node(listint_t **head, int number);
+- Prototype: `listint_t *insert_node(listint_t **head, int number);`
 - Return: the address of the new node, or `NULL` if it failed.
 > **Answers can be found in the files therein!**
 
