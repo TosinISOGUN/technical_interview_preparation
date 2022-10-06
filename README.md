@@ -40,7 +40,6 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 
 > **Answers can be found in the files therein!**
 
-
 ### Filename; **[`lists.h`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/lists.h)**
 The `lists.h` file is a header file which contains all the standard and custom function prototypes used in solving `C programming` related interview prep tasks.
 
