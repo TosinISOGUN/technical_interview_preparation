@@ -39,9 +39,20 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 - An empty list is considered a palindrome.
 
 > **Answers can be found in the files therein!**
+  
+### Filename; **[`12-pascal_triangle.py`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/12-pascal_triangle.py)**
+  
+- **Question;**
+> Create a Python function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal’s triangle of n:
+
+- Returns an empty list if `n <= 0`.
+- You can assume n will be always an integer.
+- You are not allowed to import any module.
+                                   
 
 ### Filename; **[`lists.h`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/lists.h)**
-The `lists.h` file is a header file which contains all the standard and custom function prototypes used in solving `C programming` related interview prep tasks.
-
+The `lists.h` file is a header file which contains all the standard and custom function prototypes used in solving `C programming` related interview prep tasks.                                  
+                                 
+                                 
 ## Credits & Authors
 - [Oluwatomisin ISOGUN](https://@github.com/TosinISOGUN)
