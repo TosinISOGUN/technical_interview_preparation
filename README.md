@@ -5,8 +5,8 @@
 ## Synopsis
 At ALX Holberton School of Software Engineering, specific questions/tasks are treated as interview prep tasks, these tasks are proven and can potentially be interview questions in the future while job hunting. This repository contains many of such prep tasks.
 
-## File Contents
-### Filename; **[`10-check_cycle.c`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/10-check_cycle.c)**
+# File Contents
+## Filename; **[`10-check_cycle.c`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/10-check_cycle.c)**
 - **Question;**
 > Write a function in C that checks if a singly linked list has a cycle in it.
 
@@ -19,7 +19,7 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 
 > **Answers can be found in the files therein!**
 
-### Filename; **[`13-insert_number.c`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/13-insert_number.c)**
+## Filename; **[`13-insert_number.c`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/13-insert_number.c)**
 
 - **Question;**
 > Write a function in C that inserts a number into a sorted singly linked list.
@@ -29,7 +29,7 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 
 > **Answers can be found in the files therein!**
 
-### Filename; **[`13-is_palindrome.c`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/13-is_palindrome.c)**
+## Filename; **[`13-is_palindrome.c`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/13-is_palindrome.c)**
 
 - **Question;**
 > Write a function in C that checks if a singly linked list is a palindrome.
@@ -40,7 +40,7 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 
 > **Answers can be found in the files therein!**
   
-### Filename; **[`12-pascal_triangle.py`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/12-pascal_triangle.py)**
+## Filename; **[`12-pascal_triangle.py`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/12-pascal_triangle.py)**
   
 - **Question;**
 > Create a Python function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal’s triangle of n:
@@ -50,7 +50,7 @@ Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`
 - You are not allowed to import any module.
                                    
 
-### Filename; **[`lists.h`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/lists.h)**
+## Filename; **[`lists.h`](https://github.com/TosinISOGUN/technical_interview_preparation/blob/main/lists.h)**
 The `lists.h` file is a header file which contains all the standard and custom function prototypes used in solving `C programming` related interview prep tasks.                                  
                                  
                                  
